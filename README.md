@@ -6,3 +6,6 @@ and the third is a junit test case file so then copy all the code in each file a
 the last step is to put the right link of the msdriver if you are using edge in the signInPageTest class or if you are using another browser you have to install the driver of your browser and thats all .
 
 Hope all things work right inchalah.
+
+
+Important Note!!: put all classes in the same repo.
